@@ -1,6 +1,6 @@
 ## React Hook Form Tutorial
 
-This is a tutorial on how to use React Hook Form. It is a library that helps you validate your forms in React. It is a very simple and easy to use library. It is also very lightweight and fast. It is a great alternative to Formik.
+It is a library that helps you validate your forms in React. It is a very simple and easy to use library. It is also very lightweight and fast. It is a great alternative to Formik.
 
 ## Installation
 
@@ -10,5 +10,4 @@ cd react-hook-form-tutorial
 npm install
 npm run dev
 ```
-
-or you can try the live demo: https://fazt.github.io/react-hook-form-tutorial/
+https://www.react-hook-form.com/api/useform/
